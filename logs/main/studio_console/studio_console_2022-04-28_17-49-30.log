@@ -1,0 +1,37 @@
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 28/04/2022 17:49:44
+  ==========================================
+  
+
+[2022-04-28T20:51:05.725Z] : [success]: Robot saved successfully
+
+[2022-04-28T20:51:14.564Z] : [info]: ---------------------------------------------
+
+[2022-04-28T20:51:14.564Z] : [success]: Bot started
+
+[2022-04-28T20:51:14.565Z] : [info]: Robot start
+
+[2022-04-28T20:51:23.772Z] : [error]: CAN_NOT_FIND_HTML_ELEMENT
+
+[2022-04-28T20:51:23.776Z] : [error]: Total execution time: 9s 207ms
+
+[2022-04-28T20:51:23.778Z] : [info]: ---------------------------------------------
+
+[2022-04-28T20:51:29.803Z] : [success]: Robot saved successfully
+
+[2022-04-28T20:51:40.154Z] : [success]: Bot started
+
+[2022-04-28T20:51:40.155Z] : [info]: Robot start
+
+[2022-04-28T20:51:47.766Z] : [success]: Bot finished successfully, total execution time: 7s 609ms
+
+[2022-04-28T20:51:47.767Z] : [info]: ---------------------------------------------
+
+[2022-04-28T20:51:54.798Z] : [success]: Robot saved successfully
+
+[2022-04-28T20:52:52.027Z] : [error]: Loading icon set URL: ../assets/fonts/mdi.svg failed: Http failure response for ../assets/fonts/mdi.svg: 0 Unknown Error
+
+[2022-04-28T20:52:52.029Z] : [error]: Error retrieving icon :update! Unable to find icon with the name "update"
+
